@@ -23,7 +23,7 @@ conda env create -f environment.yml
 ```
 **Step 2: Activate the enviornment**
 ```
-conda activate myenv
+conda activate annota-env
 ```
 ---
 ## Usage
